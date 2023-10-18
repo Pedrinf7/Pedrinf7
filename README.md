@@ -1,4 +1,4 @@
-### Hi there 👋
+### boas vindas ao meu perfil ⚽
 
 <!--
 **Pedrinf7/Pedrinf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
